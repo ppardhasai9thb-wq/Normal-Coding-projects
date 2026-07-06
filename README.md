@@ -1,5 +1,5 @@
 # Normal-Coding-projects
-# Restaurant Menu Billing System
+# 1.Restaurant Menu Billing System
 
 A simple console-based **Restaurant Menu Billing System** developed in **C++**. This project allows users to browse a restaurant menu, add food items to their order, and generate the final bill through an interactive command-line interface.
 
